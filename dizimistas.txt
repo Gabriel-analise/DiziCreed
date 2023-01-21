@@ -1,0 +1,2 @@
+Dizimista2;Dizimista@email.com;123.456.789-10;07/12/2004;Extra;
+dizimista255;dizimista@email.com;123.456.789-12;24/08/1998;Dizimista;
